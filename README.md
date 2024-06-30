@@ -1,2 +1,4 @@
-Practicas 1,2 y 3 del curso de Logica Computacional 2023-2
+Practicas de laboratorio Lógica Computacional 2023-2
+============
 
+* Alumna: Gabriela López Diego
